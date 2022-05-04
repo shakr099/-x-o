@@ -1,0 +1,29 @@
+.gaming{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: #fff;
+    margin: auto;
+    font-weight: 500;
+}
+.vbn{
+    background: #f25;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: gold;
+}
+.sunter{
+    width: 80px;
+    height: 80px;
+    background: #f25;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+
+}
+.sunter:hover{
+    background: #000;
+    cursor: pointer;
+}
